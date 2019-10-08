@@ -1,3 +1,3 @@
 def Song
-  assert_operator
+  attr_accessor :title, :artist
 end
